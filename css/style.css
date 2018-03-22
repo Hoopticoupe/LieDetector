@@ -1,0 +1,7 @@
+
+
+  p#results {
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-transition: 12s easing;
+  }
